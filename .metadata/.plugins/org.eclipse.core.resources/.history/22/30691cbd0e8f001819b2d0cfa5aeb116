@@ -1,0 +1,9 @@
+public void selectAll(){
+	DBConnector db=new DBConnector();
+	Connection con=db.getConnection();
+
+	String sql ="select * from test_table";
+	try{
+
+	}
+}

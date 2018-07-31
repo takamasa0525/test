@@ -1,0 +1,10 @@
+package com.internous.webpro.action;
+
+import com.opensymhony.xwork2.ActionSupport;
+
+
+public class HelloStrutsAction extends ActionSupport {
+		public String excute(){
+			return SUCCESS;
+		}
+}

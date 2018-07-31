@@ -1,0 +1,5 @@
+package com.internous.webpro.action;
+
+public class HelloStrutsAction {
+
+}
