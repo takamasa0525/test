@@ -1,6 +1,6 @@
-drop database if exists testdb;
-create database testdb;
-use testdb;
+drop database if exists ogaidb;
+create database ogaidb;
+use ogaidb;
 
 create table users(
 user_id int primary key auto_increment,
@@ -19,4 +19,3 @@ name varchar(255),
 qtype varchar(255),
 body varchar(255)
 );
-

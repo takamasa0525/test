@@ -21,7 +21,7 @@ public class MapSample {
  System.out.println(valueNull);
 
  //mapに該当するkeyが存在するか否かチェックすることも可能
- if(map.containsKey("key1")){
+ if(map.containsKey("key3")){
 	 System.out.println("key1は存在します");
  }else{
 	 System.out.println("key1は存在しません");

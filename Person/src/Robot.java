@@ -31,7 +31,6 @@ public class Robot {
         doraemon.name="doraemon";
 
         System.out.println(doraemon.name);
-
         doraemon.talk();
         doraemon.run();
         doraemon.walk();
