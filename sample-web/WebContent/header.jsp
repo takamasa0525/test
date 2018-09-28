@@ -35,7 +35,7 @@ function goSearchItemAction(){
 <div id="header">
 <div id="header-title">
 Sample Web
-</div>
+</div>./:
 <div id="header-menu">
 <ul>
 <s:form id="form" name="form">
